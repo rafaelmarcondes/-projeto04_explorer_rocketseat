@@ -4,7 +4,7 @@ Trilha explorer
 
 Projeto construido no curso Explorer
 
-Clique aqui para acessar
+[Clique aqui para acessar](https://rafaelmarcondes.github.io/projeto03_explorer_rocketseat/)
 
 tecnologias
 -HTML -CSS -Git e Github
